@@ -1,0 +1,14 @@
+D:\proect\Uchet\Uchet\bin\Debug\Uchet.exe.config
+D:\proect\Uchet\Uchet\bin\Debug\Uchet.exe
+D:\proect\Uchet\Uchet\bin\Debug\Uchet.pdb
+D:\proect\Uchet\Uchet\obj\Debug\Uchet.csproj.AssemblyReference.cache
+D:\proect\Uchet\Uchet\obj\Debug\Uchet.csproj.SuggestedBindingRedirects.cache
+D:\proect\Uchet\Uchet\obj\Debug\Uchet.Properties.Resources.resources
+D:\proect\Uchet\Uchet\obj\Debug\Uchet.csproj.GenerateResource.cache
+D:\proect\Uchet\Uchet\obj\Debug\Uchet.csproj.CoreCompileInputs.cache
+D:\proect\Uchet\Uchet\obj\Debug\Uchet.exe
+D:\proect\Uchet\Uchet\obj\Debug\Uchet.pdb
+D:\proect\Uchet\Uchet\obj\Debug\Uchet.MainForm.resources
+D:\proect\Uchet\Uchet\obj\Debug\Uchet.Redact.resources
+D:\proect\Uchet\Uchet\obj\Debug\Uchet.InsertForm.resources
+D:\proect\Uchet\Uchet\obj\Debug\Uchet.AddInstitute.resources
